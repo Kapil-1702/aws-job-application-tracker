@@ -1,4 +1,4 @@
-# AWS Job Application Tracker
+# AWS Serverless Job Application Tracker
 
 A serverless job application tracking system with analytics capabilities built using AWS services.
 
